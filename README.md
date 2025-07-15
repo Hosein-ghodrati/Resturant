@@ -6,7 +6,7 @@
 
 <span>&diams;</span>  Created - 2024-8-26
 
-<span>&diams;</span>  Technologies Used - Html, Css
+<span>&diams;</span>  Technologies Used - Html, Css, Js, Bootstrap
 
 <span>&diams;</span>  Role - Frontend
 
